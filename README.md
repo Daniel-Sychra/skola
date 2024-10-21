@@ -1,1 +1,2 @@
-# skola
+# pokud skolní
+print(Hello World")
